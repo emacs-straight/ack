@@ -1,2 +1,2 @@
-;; Generated package description from ack.el  -*- no-byte-compile: t -*-
-(define-package "ack" "1.11.0.20220924.84123" "interface to ack-like tools" 'nil :commit "90c90a80322aa9f26ce88f2f24a224afc4c994b8" :authors '(("Leo Liu" . "sdl.web@gmail.com")) :maintainer '("João Távora" . "joaotavora@gmail.com") :keywords '("tools" "processes" "convenience") :url "https://github.com/leoliu/ack-el")
+;; Generated package description from ack.el  -*- no-byte-compile: t; lexical-binding:t -*-
+(define-package "ack" "1.11.0.20260429.83816" "interface to ack-like tools" 'nil :commit "7d1babc1c59ad4c74bd7bbc0e634f33a01da751a" :authors '(("Leo Liu" . "sdl.web@gmail.com")) :maintainer '("João Távora" . "joaotavora@gmail.com") :keywords '("tools" "processes" "convenience") :url "https://github.com/leoliu/ack-el")
